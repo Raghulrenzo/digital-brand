@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding:0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Sintony:wght@400;700&family=Source+Sans+Pro:wght@900&display=swap');
+body{
+     font-family:Source Sans Pro,Sintony;
+}
+.h1{
+    font-family: Source Sans Pro;
+    font-weight: 900;
+    font-size: 60px;
+    line-height:61px;
+}
+.h2{
+    font-family:Source sans pro;
+    font-weight:900;
+    font-size: 48px;
+    line-height:56px;
+}
+.h3{
+    font-family: Source Sans Pro;
+    font-weight:900;
+    font-size: 34px;
+    line-height:51px;
+}
+.h4{
+    font-family:Source Sans pro;
+    font-weight:900;
+    font-size:13px;
+    line-height: 16px;
+}
+.h5{
+    font-family:Sintony;
+    font-weight:400;
+    font-size:34px;
+    line-height:51px ;
+}
+.h6{
+    font-family:Source Sans pro;
+    font-weight:900;
+    font-size:24px;
+    line-height:32px;
+    }
+.h7{
+    font-family:Source Sans pro;
+    font-weight:900;
+    font-size:28px;
+    line-height:36px;
+}    
+.h8{
+    font-family:Sintony;
+    font-weight:700;
+    font-size:13px;
+    line-height:17px;
+}
+.h9{
+    font-family: Source Sans pro;
+    font-weight:900;
+    font-size:16px;
+    line-height: 18px;
+}
+.title{
+    font-family:Sintony;
+    font-weight:400;
+    font-size:15px;
+    line-height:24px;
+}
+.primary__button{
+    width: 216px;
+    height: 52px;
+    font-family:Source Sans pro;
+    font-weight:700;
+    font-size:15px;
+    line-height: 24px;
+    background-color:black;
+    color:white;
+
+
+}
+.secondary__button{
+    width:216px;
+    height:52px;
+    font-family:Source Sans pro;
+    font-weight:700;
+    font-size:15px;
+    line-height:24px;
+    background-color:#ffc700;
+    color:white;
+}
